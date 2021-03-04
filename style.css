@@ -1,5 +1,9 @@
+/*declare variables*/
+:root {
+  --font: 'Inconsolata', monospace;
+}
+
 #main {
-/*   background-color: grey; */
   display: block;
 }
 
@@ -18,20 +22,23 @@
 
 #img-caption {
   text-align: center;
+   font-family: var(--font);
 }
 
 #title {
   display: block;
   text-align: center;
-/*   background-color: pink; */
+  font-family: var(--font);
 }
 
 #quote {
   text-align: center;
+  font-family: var(--font);
 }
 
 h2 {
   text-align: center;
+    font-family: var(--font);
 }
 
 #tribute-info {
@@ -49,4 +56,17 @@ h2 {
 #timeline {
 /*   background-color: orange; */
   padding: 0 40px;
+  font-family: var(--font);
+}
+
+#footer {
+  background-color: grey;
+  height: 60px;
+}
+
+#tribute-link {
+  text-decoration: none;
+  font-family: var(--font);
+  color: white;
+  padding: 25px;
 }
