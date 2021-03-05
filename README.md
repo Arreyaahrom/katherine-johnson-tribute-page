@@ -13,6 +13,6 @@ I'm working on this project to apply all of the lessons and concepts that I've l
 <li>CSS</li>
 
 # Credits
-*Credits go to the incredible folks at freeCodeCamp! 
-*Katherine Johnson timeline is from: https://www.sutori.com/story/katherine-johnson-timeline--cSJqHuZZmjGq6adEGqWUCta8
+*Credits go to the incredible folks at freeCodeCamp!<br>
+*Katherine Johnson timeline is from: https://www.sutori.com/story/katherine-johnson-timeline--cSJqHuZZmjGq6adEGqWUCta8<br>
 *Image is from https://www.theguardian.com/science/2020/feb/24/katherine-johnson-obituary
